@@ -1,0 +1,7 @@
+binomial_package/__init__.py
+binomial_package/Binomialdistribution.py
+binomial_package/Gaussiandistribution.py
+binomial_package/Generaldistribution.py
+binomial_package/numbers_binomial.txt
+binomial_package/numbers.txt
+binomial_package/test.py
